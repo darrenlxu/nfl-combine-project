@@ -9,4 +9,10 @@ The dataset used is: https://www.kaggle.com/mrframm/nfl-2020-combine
 
 See the <u>summary</u> file for a full summarization of the project.
 
-<i>main_v2.ipynb and the summary file will be uploaded soon</i>
+<br>
+
+<ins>Contents of NFL Combine project</ins>:
+- Dataset 
+- main.ipynb (bulk)
+- main_v2.ipynb (improved/updated models)
+- summary.pdf 
