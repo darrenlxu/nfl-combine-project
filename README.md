@@ -12,7 +12,7 @@ See the <u>summary</u> file for a full summarization of the project.
 <br>
 
 <ins>Contents of NFL Combine project</ins>:
-- Dataset 
+- dataset 
 - main.ipynb (bulk)
 - main_v2.ipynb (improved/updated models)
 - summary.pdf 
